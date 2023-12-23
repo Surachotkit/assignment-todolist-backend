@@ -3,10 +3,7 @@
 ## Setup
 
 ### Install node
-
-```
-npm install node
-```
+Installing Node.js: Visit the official Node.js website: https://nodejs.org/
 
 ## Running the code
 
@@ -17,11 +14,11 @@ npm i
 
 ### Setup Database
 
-# Create Database
+## Create Database
 ```
 CREATE DATABASE todolist_db
 ```
-# Create Table
+## Create Table
 ```
 CREATE TABLE list (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
