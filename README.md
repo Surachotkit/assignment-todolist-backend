@@ -15,9 +15,9 @@ npm install node
 npm i
 ```
 
-### Setup Database for local
+### Setup Database
 
-# create Database
+# Create Database
 ```
 CREATE DATABASE todolist_db
 ```
