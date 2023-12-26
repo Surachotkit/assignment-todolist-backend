@@ -14,6 +14,9 @@ npm i
 
 ### Setup Database
 
+## Install MySQL
+Installing MySQL: The official MySQL website: https://www.mysql.com/
+
 ## Create Database
 ```
 CREATE DATABASE todolist_db
