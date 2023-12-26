@@ -12,16 +12,16 @@ Installing Node.js: Visit the official Node.js website: https://nodejs.org/
 npm i
 ```
 
-### Setup Database
+## Setup Database
 
-## Install MySQL
+### Install MySQL
 Installing MySQL: The official MySQL website: https://www.mysql.com/
 
-## Create Database
+### Create Database
 ```
 CREATE DATABASE todolist_db
 ```
-## Create Table
+### Create Table
 ```
 CREATE TABLE list (
     id INTEGER NOT NULL AUTO_INCREMENT PRIMARY KEY,
@@ -33,7 +33,7 @@ CREATE TABLE list (
 
 ```
 
-### Run the server
+## Run the server
 ```
 npm run dev
 ```
